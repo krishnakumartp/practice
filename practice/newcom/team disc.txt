@@ -1,0 +1,12 @@
+Complete testing of the data load...E2E testing...
+
+PCM side - 40 templates + restriction
+Mahveeer willwork + pim
+
+Deployed into ....
+
+cloud - testing - 
+
+
+
+
