@@ -1,7 +1,5 @@
 https://d-113077014:9002/productEnrichment/index.zul
 
-https://d-113077014:9002/productEnrichment/index.zul
-
 categorymanager 1234
 0036236100 blank
 admin 
